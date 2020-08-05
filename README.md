@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanyakan&hide=["issues"]&show_icons=true)
+![b3h3m0th's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b3h3m0th&hide=["issues"]&show_icons=true)
 
