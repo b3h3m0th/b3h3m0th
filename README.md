@@ -1,5 +1,4 @@
-### Hi there 👋, Behemoth
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Behemoth
 
 
 - 📫 How to reach me: Discord Behemoth#4026 
