@@ -1,2 +1,10 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3h3m0th&show_icons=true&locale=en&layout=compact" alt="b3h3m0th" /></p>
+### Hi there 👋, Behemoth
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+
+- 📫 How to reach me: Discord Behemoth#4026 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/b3h3m0th)  
+
+![GitHub metrics](https://metrics.lecoq.io/b3h3m0th)  
