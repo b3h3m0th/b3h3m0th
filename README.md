@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Behemoth
+### Hi there 👋, I'm Simon
 
 
 📫 How to reach me: Discord Behemoth#4026 
