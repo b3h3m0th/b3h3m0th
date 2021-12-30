@@ -3,4 +3,4 @@ console.log(([] + {})[!+[] + !![]] + ([] + {})[+!![] + [+!![]]] + []["p" + ([][[
 ```
 
 
-📫 Discord: Behemoth#4026 
+📫 Discord: Behemoth#4026
