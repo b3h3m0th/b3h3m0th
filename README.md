@@ -1,1 +1,1 @@
-
+I own a computer.
